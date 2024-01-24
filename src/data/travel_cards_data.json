@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "смотреть на камни с девочками",
+    "TravelCardImg": "https://img-fotki.yandex.ru/get/6403/137106206.93/0_8ac31_91474922_orig.jpg",
+    "startDate": "20.10.2024",
+    "endDate": "20.10.2024"
+  },
+  {
+    "id": 2,
+    "title": "смотреть с девочками на воду",
+    "TravelCardImg": "https://image.fhserv.ru/fishingsib/2016-06-bda097299b1c02e3e6b3e70f1529be7d__rsu-1024-800.jpg?hash=cc1b1e42",
+    "startDate": "20.10.2024",
+    "endDate": "20.10.2024"
+  },
+  {
+    "id": 3,
+    "title": "прогулка по канату",
+    "TravelCardImg": "https://avatars.dzeninfra.ru/get-zen_doc/9709654/pub_64917e857e523b79666dbfc8_64917ec37e523b79666dccdb/scale_1200",
+    "startDate": "20.10.2024",
+    "endDate": "20.10.2024"
+  },
+  {
+    "id": 4,
+    "title": "катание на шарах",
+    "TravelCardImg": "https://www.epochtimes.com.ua/sites/default/files/field/image/08-2020/nature-2531761_640.jpg",
+    "startDate": "20.10.2024",
+    "endDate": "20.10.2024"
+  },
+  {
+    "id": 5,
+    "title": "встреча в питере",
+    "TravelCardImg": "https://avatars.dzeninfra.ru/get-zen_doc/4446398/pub_60dc35f7307ed50db533ab13_60dc365a319aa60d5aa5dfcf/scale_1200",
+    "startDate": "20.10.2024",
+    "endDate": "20.10.2024"
+  },
+  {
+    "id": 6,
+    "title": "Card 6",
+    "TravelCardImg": "https://img-fotki.yandex.ru/get/6403/137106206.93/0_8ac31_91474922_orig.jpg",
+    "startDate": "20.10.2024",
+    "endDate": "20.10.2024"
+  },
+  {
+    "id": 7,
+    "title": "Card 7",
+    "TravelCardImg": "https://img-fotki.yandex.ru/get/6403/137106206.93/0_8ac31_91474922_orig.jpg",
+    "startDate": "20.10.2024",
+    "endDate": "20.10.2024"
+  }
+]
